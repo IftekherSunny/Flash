@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "a3c377e1a55e130ee6a7e8b4def6b431",
+    "packages": [
+        {
+            "name": "sun/session",
+            "version": "v1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/IftekherSunny/Session.git",
+                "reference": "f05edd8ce835986cffd10faec45e0d61ac109d02"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/IftekherSunny/Session/zipball/f05edd8ce835986cffd10faec45e0d61ac109d02",
+                "reference": "f05edd8ce835986cffd10faec45e0d61ac109d02",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sun\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Iftekher Sunny",
+                    "email": "iftekhersunny@hotmail.com"
+                }
+            ],
+            "description": "This package helps you to manage your session easily.",
+            "time": "2015-07-13 04:14:22"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

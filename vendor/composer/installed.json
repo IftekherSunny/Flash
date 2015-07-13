@@ -1,0 +1,40 @@
+[
+    {
+        "name": "sun/session",
+        "version": "v1.1",
+        "version_normalized": "1.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/IftekherSunny/Session.git",
+            "reference": "f05edd8ce835986cffd10faec45e0d61ac109d02"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/IftekherSunny/Session/zipball/f05edd8ce835986cffd10faec45e0d61ac109d02",
+            "reference": "f05edd8ce835986cffd10faec45e0d61ac109d02",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "time": "2015-07-13 04:14:22",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Sun\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Iftekher Sunny",
+                "email": "iftekhersunny@hotmail.com"
+            }
+        ],
+        "description": "This package helps you to manage your session easily."
+    }
+]

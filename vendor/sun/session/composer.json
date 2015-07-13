@@ -1,0 +1,19 @@
+{
+  "name": "sun/session",
+  "description": "This package helps you to manage your session easily.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iftekher Sunny",
+      "email": "iftekhersunny@hotmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Sun\\": "src/"
+    }
+  }
+}
