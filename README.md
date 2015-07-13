@@ -112,6 +112,17 @@ Defalut value for --
  Dismiss Button Type = default
 ```
 
+## Screenshots
+
+###### Flash Message Overlay:
+![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/overlay.png)
+
+###### Flash Message Success:
+![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/success.png)
+
+###### Flash Message Error:
+![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/Error.png)
+
 ## License
 
 This package is licensed under the [MIT License](https://github.com/IftekherSunny/flash/blob/master/LICENSE)

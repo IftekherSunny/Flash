@@ -1,6 +1,16 @@
 {
+  "name": "sun/flash",
+  "description": "Flash helps you to add flash messages to your PHP application.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Iftekher Sunny",
+      "email": "iftekhersunny@hotmail.com"
+    }
+  ],
   "require": {
-    "sun/session": "~1.0"
+    "php": ">=5.4.0",
+    "sun/session": "^1.1"
   },
   "autoload": {
     "psr-4": {
