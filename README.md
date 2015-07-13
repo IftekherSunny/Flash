@@ -1,5 +1,7 @@
 ## Flash
 
+[![Total Downloads](https://poser.pugx.org/sun/flash/downloads)](https://packagist.org/packages/sun/flash) [![Latest Stable Version](https://poser.pugx.org/sun/flash/v/stable)](https://packagist.org/packages/sun/flash) [![Latest Unstable Version](https://poser.pugx.org/sun/flash/v/unstable)](https://packagist.org/packages/sun/flash) [![License](https://poser.pugx.org/sun/flash/license)](https://packagist.org/packages/sun/flash)
+
 Flash helps you to add flash messages to your PHP application.
 
 ## Installation Process
@@ -121,7 +123,7 @@ Defalut value for --
 ![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/success.png)
 
 ###### Flash Message Error:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/Error.png)
+![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/error.png)
 
 ## License
 
