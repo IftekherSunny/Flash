@@ -1,11 +1,13 @@
 {
   "name": "sun/flash",
   "description": "Flash helps you to add flash messages to your PHP application.",
+  "keywords": ["laravel", "flash", "flash message", "bootstrap", "php", "message"],
   "license": "MIT",
   "authors": [
     {
       "name": "Iftekher Sunny",
-      "email": "iftekhersunny@hotmail.com"
+      "email": "iftekhersunny@hotmail.com",
+      "homepage": "http://iftekhersunny.com"
     }
   ],
   "require": {
