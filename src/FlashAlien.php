@@ -1,4 +1,6 @@
-<?php namespace Sun;
+<?php
+
+namespace Sun;
 
 class FlashAlien extends Alien
 {
@@ -9,6 +11,6 @@ class FlashAlien extends Alien
      */
     public static function registerAlien()
     {
-        return new Flash();
+        return 'Sun\Flash';
     }
 }
