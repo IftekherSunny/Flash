@@ -8,7 +8,7 @@
                         <h4 class="modal-title"><?php echo $session->get('flash_notification.title') ?></h4>
                     </div>
                     <div class="modal-body">
-                        <p><?php echo $session->get('flash_notification.message') ?></p>
+                        <p><?php echo $session->pull('flash_notification.message') ?></p>
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-<?php echo $session->get('flash_notification.dismissType') ?>" data-dismiss="modal"><?php echo $session->get('flash_notification.dismissText') ?></button>
