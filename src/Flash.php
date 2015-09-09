@@ -6,10 +6,15 @@ class Flash implements FlashInterface
 {
 
     /**
-     * @var Session
+     * Store session
+     *
+     * @var \Sun\Session
      */
-    private $session;
+    protected $session;
 
+    /**
+     * Create a new flash class
+     */
     public function __construct()
     {
         $this->session = new Session;
