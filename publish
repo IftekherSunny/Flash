@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 $dir = __DIR__.'/../../../view';
@@ -7,8 +8,7 @@ if (! file_exists($dir))  mkdir($dir, 0777, true);
 if(file_exists($dir.'/flash.php'))
 {
     echo 'Flash message view already exists.';
-}
-else {
+} else {
     copy(__DIR__.'/view/flash.php', $dir.'/Flash_Message.php');
 
     echo 'Flash message view has been published successfully.';

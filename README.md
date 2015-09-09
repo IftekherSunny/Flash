@@ -27,7 +27,7 @@ If you install flash manually, just add this line where you want to show flash m
 ```
 If you install flash via composer, You need to publish flash message view. To publish flash message view -
 
-```php
+```
  php vendor/sun/flash/publish
 ```
 
@@ -117,13 +117,13 @@ Defalut value for --
 ## Screenshots
 
 ###### Flash Message Overlay:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/overlay.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Flash/overlay.png)
 
 ###### Flash Message Success:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/success.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Flash/success.png)
 
 ###### Flash Message Error:
-![Overlay view](https://github.com/IftekherSunny/Flash/blob/master/screenshot/error.png)
+![Overlay view](https://github.com/IftekherSunny/screenshot/blob/master/Flash/error.png)
 
 ## License
 
