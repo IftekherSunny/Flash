@@ -1,11 +1,13 @@
 {
   "name": "sun/session",
   "description": "This package helps you to manage your session easily.",
+  "keywords": ["php", "session", "php session", "laravel like session", "auth"],
   "license": "MIT",
   "authors": [
     {
       "name": "Iftekher Sunny",
-      "email": "iftekhersunny@hotmail.com"
+      "email": "iftekhersunny@hotmail.com",
+      "homepage": "http://iftekhersunny.com"
     }
   ],
   "require": {

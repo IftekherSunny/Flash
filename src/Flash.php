@@ -14,10 +14,12 @@ class Flash implements FlashInterface
 
     /**
      * Create a new flash class
+     *
+     * @param Session $session
      */
-    public function __construct()
+    public function __construct(Session $session = null)
     {
-        $this->session = new Session;
+        $this->session = $session?: new Session;
     }
 
     /**
